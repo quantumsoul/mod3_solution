@@ -1,1 +1,36 @@
+body {
+    background-color:aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+}
+#header-nav{
+    background-color:aquamarine;
+    border-radius: 0;
+    border: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+ul{
+    text-align: center;
+    background-color:rgb(67, 170, 136);
+    margin: 0;
+    padding: 0; 
+}
+hr{
+    margin-top: 0.35em !important;
+    margin-bottom: 0.35em !important;
+    border-width: 1px;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+.navbar-toggler{
+    margin-bottom: 5px;
+    margin-right: 2%;
+
+}
+p{
+    background-color: rgb(123, 206, 206);
+}
 
